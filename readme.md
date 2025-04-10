@@ -14,3 +14,4 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+![rb3dtext](https://github.com/user-attachments/assets/9ccedef5-d5f6-4740-af7f-ad7fe9f01971)
