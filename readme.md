@@ -1,5 +1,8 @@
 # Three.js Journey
 
+## Live
+[3D Text](https://3d-text-tau-five.vercel.app/)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
